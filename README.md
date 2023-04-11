@@ -23,4 +23,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React Hooks
 - Requisição de API TMDB
 - Configuração de variaveis em Dotenv
-- Criar Search com useSearchParams
+- Criar Search com query e useSearchParams
