@@ -1,7 +1,7 @@
 
 <h1 align="center"> Projeto MovieFlix </h1>
 
-Catalogo de Filmes com pesquisa por nomes de filmes com Front-end em React.Js com consumo de Api TMDB.
+Catalogo de Filmes com pesquisa por nomes com Front-end em React.Js e consumo de Api TMDB.
 
 <br>
 
