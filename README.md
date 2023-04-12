@@ -5,6 +5,10 @@ Catalogo de Filmes com pesquisa por nomes com Front-end em React.Js e consumo de
 
 <br>
 
+<p align="center">
+  <img src="https://github.com/veigarj/MovieFlix/blob/main/MovieFlix.png" width="100%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
